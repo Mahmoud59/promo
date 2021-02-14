@@ -1,6 +1,5 @@
 # Linting
 flake8==3.8.4
-isort==5.7.0
 
 # Shell
 ipdb==0.13.4

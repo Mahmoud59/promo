@@ -50,3 +50,5 @@ To run project:
 17 - For use promo by user (127.0.0.1:8000/api/promo/'promo_id'/)
 
 18 - For run unit test, run 'pytest' in apps directory beside users and promos.
+
+19 - You can run flake8 --statistics for characters limited in one line.
