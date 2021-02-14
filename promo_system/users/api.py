@@ -16,7 +16,7 @@ class AdminViewSet(ModelViewSet):
     serializer_class = AdminSerializer
     queryset = Admin.objects.all().order_by('-created')
 
-    """ 
+    """
         Create user account in auth_user table for authenticate. 
         Insert custom email for prevent duplicate authentication. 
     """
