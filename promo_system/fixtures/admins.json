@@ -1,0 +1,13 @@
+[
+  {
+    "model": "users.admin",
+    "uuid": "d0b13d80-a15c-411a-b2bf-23dc04091fa0",
+    "fields": {
+      "username": "admin",
+      "address": "Cairo",
+      "user": 1,
+      "created": "2021-02-14 21:29:35.494721+02",
+      "modified": "2021-02-14 21:29:35.494721+02"
+    }
+  }
+]
